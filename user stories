@@ -1,0 +1,45 @@
+As a User:
+1. As a User, I want to browse a catalog of flowers, so that I can easily view and select flowers for purchase.
+- The catalog will show various types of flowers
+- Each flower will have detailed descriptions and images
+2. As a User, I want to see special offers for bouquets, so that I can take advantage of discounts and promotions.
+- Special offers will be displayed prominently
+- Discounted bouquets can be added to the cart with a click
+- Offers will have expiration dates and terms
+3. As a User, I want to receive reminders of upcoming events, so that I can buy flowers for special occasions like birthdays or anniversaries.
+- The reminders can be linked to a calendar
+- Notifications can be customized (email, SMS, app)
+- Option to set reminders for personal dates
+4. As a User, I want to log in via my Google account, so that I can quickly access my account without creating a new one.
+- OAuth integration for Google login
+- Ability to save user preferences and order history
+- Login is secure and private
+5. As a User, I want to add personalized message cards to my bouquet orders, so that I can include a special note for the recipient.
+- Custom messages can be typed during the ordering process
+- Various card designs are available
+- Characters are limited to a certain number for each card
+6. As a User, I want to view a calendar of my future deliveries, so that I can track when my flowers will arrive.
+- Notifications sent before delivery day
+- Deliveries show on a dashboard for easy tracking
+7. As a User, I want to subscribe for a specific amount of flowers delivered regularly, so that I can enjoy fresh flowers without reordering every time.
+- Subscriptions for weekly, bi-weekly, or monthly flowers
+- Adjustable delivery dates and frequency
+- Pause or cancel the subscription anytime
+8. As a User, I want to read a description of the flowers, so that I can learn about the flowers’ origins, meanings, and care instructions.
+- Flower details include scientific names, symbolism, and care tips
+- Additional info about bouquet size and arrangement style
+9. As a User, I want to customize my bouquets, so that I can create a unique arrangement that fits my needs.
+- Ability to choose flower types and colors
+- Add-ons like ribbons or special wrapping
+10. As a User, I want to use my contact information to streamline the order process, so that I can avoid re-entering my details each time I order.
+- Contacts saved for future use (shipping, billing, recipients)
+- Option to auto-fill from my profile during checkout
+- Edit or remove contacts when needed
+As a Shop Owner
+1. As a Shop Owner, I want to sell more flowers daily, so that I can increase my revenue and meet my sales goals.
+- Promotions and discounts on certain flowers to boost sales
+- Introduce limited-time deals and flash sales
+2. As a Shop Owner, I want to sell flowers with a short shelf life, so that I can reduce waste and avoid financial loss.
+- Highlight short shelf-life flowers with markdowns
+- Bundle perishable flowers with other products for a quick sale
+- Notifications to users about “last chance” flowers
